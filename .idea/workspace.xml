@@ -274,7 +274,7 @@
       <path value="$PROJECT_DIR$/vendor/mews/captcha" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
@@ -384,15 +384,15 @@
       <workItem from="1547011451776" duration="624000" />
       <workItem from="1547024785359" duration="1975000" />
       <workItem from="1547183875394" duration="874000" />
-      <workItem from="1547192915818" duration="896000" />
+      <workItem from="1547192915818" duration="1123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17616000" />
+    <option name="totallyTimeSpent" value="17843000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16653194" />
